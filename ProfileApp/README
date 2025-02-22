@@ -1,0 +1,4 @@
+- Install expo 
+- download all necesary dependencies using npm install
+- run program using npx expo start
+- run the program on mobile phone or emulator (android recomended)
